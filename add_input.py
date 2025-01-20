@@ -1,0 +1,5 @@
+print(input('Введите ваше имя:'))
+year=(input('Введите ваш возраст:'))
+print(year)
+year5=(int(year)+5)
+print(f'Через 5 лет вам будет:', year5)
